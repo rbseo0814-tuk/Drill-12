@@ -1,6 +1,7 @@
 from pico2d import *
 from boy import Boy
 from grass import Grass
+from grass1 import Grass1
 import game_world #게임 월드 모듈 임포트
 
 
